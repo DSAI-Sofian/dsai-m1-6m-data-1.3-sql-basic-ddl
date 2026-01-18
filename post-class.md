@@ -29,7 +29,7 @@ Write the SQL DDL statements to create these three tables in a new schema called
 
 Scenario:
 
-The marketing team has sent you a raw CSV file named leads\_raw.csv containing potential customer data collected from a web form. The file is messy and unstructured.
+The marketing team has sent you a raw CSV file named [leads\_raw.csv](./data/leads_raw.csv) containing potential customer data collected from a web form. The file is messy and unstructured.
 
 **Data Preview (leads\_raw.csv):**
 
